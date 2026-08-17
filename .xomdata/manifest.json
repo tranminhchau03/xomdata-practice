@@ -78,5 +78,17 @@
   "practice/sql/medium/medium-rank-001/solution.sql": "1f5c026d4ff6acc52a3d799f1055b94e72c70df2458de7c25d24ce2fcfe881f1",
   "practice/sql/medium/medium-rank-002/solution.sql": "3fc89b770b792133580a26eff9286cc6584930781edb6c7123d86954a99624dd",
   "practice/sql/medium/medium-rank-003/solution.sql": "f13ba8fb905acc51e40c61b5921295b8129b0a587901053c2c206d0b23be7a74",
-  "practice/sql/medium/medium-rank-004/solution.sql": "b45854d3239949f1101a9a69778361c42203e52b066f2c938e7aa13b7c580cb1"
+  "practice/sql/medium/medium-rank-004/solution.sql": "b45854d3239949f1101a9a69778361c42203e52b066f2c938e7aa13b7c580cb1",
+  "practice/sql/medium/medium-rolling-001/solution.sql": "464a3d1e0ed25c0d092a82b7a6f5aeed548c03a4f7a942ba2b8b2a80e1d33e75",
+  "practice/sql/medium/medium-rolling-002/solution.sql": "9d3873431902e952f757c0a1beb98f799edd0f5a5e83986fe52e9d2898fbbce7",
+  "practice/sql/medium/medium-rownum-001/solution.sql": "7d10255997f4d13cab25a229313aeda7e928cd78ddf435fa85f2a8c8d1d9bc22",
+  "practice/sql/medium/medium-rownum-002/solution.sql": "bc6fa7ccc816d1941079274c2468086cc8a14f9d86c66c98a42630165eb26bae",
+  "practice/sql/medium/medium-rownum-003/solution.sql": "47016d4924590437979674fdad0694efb425cebfdcc9b523a614345c387f9cbc",
+  "practice/sql/medium/medium-runtotal-001/solution.sql": "f15f90a3d9de0511aae2b84baa9694ff0e0cba9702150108ead94a3be26c84f5",
+  "practice/sql/medium/medium-runtotal-002/solution.sql": "a61d74bd33e87a65fe350a00c053d6d55945d156e472a16017d68607494f5935",
+  "practice/sql/medium/medium-runtotal-003/solution.sql": "07cc44d846ce5841d4c4780d406987796ac7383bc5ba88ece52647f2d8072628",
+  "practice/sql/hard/hard-multicte-001/solution.sql": "5f41a033a2cc9f7d78dc235f7f79c15772c291c80c34b40ae8e908ebd485d8b4",
+  "practice/sql/hard/hard-pathanalysis-001/solution.sql": "c9f7ca05a08ffbc0f2ba2cfbc1dc3530c88cdeb4977e5a35a13bfff6a116e40c",
+  "practice/sql/easy/easy-join-003/solution.sql": "1b7efc599ebe7abe1ae3584c75381b7a3e4aba658c598b300151ea245d0ebd8d",
+  "practice/sql/easy/easy-avg-002/solution.sql": "78e54e44bcee9bcee91b6c860b47263d05f86423ffcca96864f9f338a58b7b26"
 }
