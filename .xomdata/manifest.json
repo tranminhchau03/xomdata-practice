@@ -90,5 +90,12 @@
   "practice/sql/hard/hard-multicte-001/solution.sql": "5f41a033a2cc9f7d78dc235f7f79c15772c291c80c34b40ae8e908ebd485d8b4",
   "practice/sql/hard/hard-pathanalysis-001/solution.sql": "c9f7ca05a08ffbc0f2ba2cfbc1dc3530c88cdeb4977e5a35a13bfff6a116e40c",
   "practice/sql/easy/easy-join-003/solution.sql": "1b7efc599ebe7abe1ae3584c75381b7a3e4aba658c598b300151ea245d0ebd8d",
-  "practice/sql/easy/easy-avg-002/solution.sql": "78e54e44bcee9bcee91b6c860b47263d05f86423ffcca96864f9f338a58b7b26"
+  "practice/sql/easy/easy-avg-002/solution.sql": "78e54e44bcee9bcee91b6c860b47263d05f86423ffcca96864f9f338a58b7b26",
+  "practice/sql/medium/medium-cohort-001/solution.sql": "f53e27ed79ad3ba780bd001b26716f0ad758b9570800e3c203726a81cacc92a9",
+  "practice/sql/medium/medium-cohort-002/solution.sql": "0b614020864c55771226e72685cb7c331e234812499d12fa87d604b74fa9418b",
+  "practice/sql/medium/medium-dedup-001/solution.sql": "729136630382ffe27abeb0986f205d878ca690c795c0ba3413f821e047c85faa",
+  "practice/sql/medium/medium-dedup-002/solution.sql": "427154101356c07b4e3b5d33c2e88e0a583150ea55d22694e512e40fdd48fea9",
+  "practice/sql/medium/medium-dedup-003/solution.sql": "2709243bf947d0b75b0422343d7b9375b3cd231e03c3840c60137c4e22e93da0",
+  "practice/sql/medium/medium-denserank-001/solution.sql": "208f99a77ec63cc5815c70c3b91a25f7ded3262d017d715a6d6ab9bd205eaa66",
+  "practice/sql/medium/medium-denserank-002/solution.sql": "868f9905d4472572c647adb0a6399a3d6f050bdf33c078ffe3a201006970aa64"
 }
