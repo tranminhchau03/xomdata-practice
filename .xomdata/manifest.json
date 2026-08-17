@@ -97,5 +97,7 @@
   "practice/sql/medium/medium-dedup-002/solution.sql": "427154101356c07b4e3b5d33c2e88e0a583150ea55d22694e512e40fdd48fea9",
   "practice/sql/medium/medium-dedup-003/solution.sql": "2709243bf947d0b75b0422343d7b9375b3cd231e03c3840c60137c4e22e93da0",
   "practice/sql/medium/medium-denserank-001/solution.sql": "208f99a77ec63cc5815c70c3b91a25f7ded3262d017d715a6d6ab9bd205eaa66",
-  "practice/sql/medium/medium-denserank-002/solution.sql": "868f9905d4472572c647adb0a6399a3d6f050bdf33c078ffe3a201006970aa64"
+  "practice/sql/medium/medium-denserank-002/solution.sql": "868f9905d4472572c647adb0a6399a3d6f050bdf33c078ffe3a201006970aa64",
+  "practice/sql/hard/hard-pivot-001/solution.sql": "1a5b3e754be747715ea6a58c92e14d06641e5a56d8553f3422607f519b1f28e0",
+  "practice/sql/hard/hard-retention-001/solution.sql": "37208c1fbb52a9ea7109ef99a2b850cd0becbe9426ed289488f1e8faed07da30"
 }
