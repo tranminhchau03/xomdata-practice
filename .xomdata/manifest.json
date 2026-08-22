@@ -99,5 +99,9 @@
   "practice/sql/medium/medium-denserank-001/solution.sql": "208f99a77ec63cc5815c70c3b91a25f7ded3262d017d715a6d6ab9bd205eaa66",
   "practice/sql/medium/medium-denserank-002/solution.sql": "868f9905d4472572c647adb0a6399a3d6f050bdf33c078ffe3a201006970aa64",
   "practice/sql/hard/hard-pivot-001/solution.sql": "1a5b3e754be747715ea6a58c92e14d06641e5a56d8553f3422607f519b1f28e0",
-  "practice/sql/hard/hard-retention-001/solution.sql": "37208c1fbb52a9ea7109ef99a2b850cd0becbe9426ed289488f1e8faed07da30"
+  "practice/sql/hard/hard-retention-001/solution.sql": "37208c1fbb52a9ea7109ef99a2b850cd0becbe9426ed289488f1e8faed07da30",
+  "practice/sql/hard/hard-recursive-001/solution.sql": "955e2e39cf8dda7dd5297b24e4665a308570f625cdb8528f2a4100403dee0013",
+  "practice/sql/hard/hard-gapfill-001/solution.sql": "e3ad2cf507794d8f874d3cf17221c9ab6fbb0daa1d09840bd998f1099c20f296",
+  "practice/sql/hard/hard-rfm-002/solution.sql": "e532a35a8923bb18ae0e214cab5fffcecaad8c477d2fa0db61e901a92641c888",
+  "practice/sql/hard/hard-cohort-002/solution.sql": "65a571d6057a0f797ba7a3ba6ed9bc1765720438ba93ceec367f260793cb639c"
 }
