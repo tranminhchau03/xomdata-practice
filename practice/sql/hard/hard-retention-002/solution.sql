@@ -1,4 +1,4 @@
--- Xom Data · Sau một tháng, còn lại bao nhiêu phần
+-- Xom Data · How much is left after one month
 -- Problem: https://xomdata.com/practice/hard-retention-002
 -- Solved: 2026-08-23
 

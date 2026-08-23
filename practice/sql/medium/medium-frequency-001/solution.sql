@@ -1,4 +1,4 @@
--- Xom Data · Khách năng ghé trong nửa năm qua
+-- Xom Data · Customers Active Over the Past Half Year
 -- Problem: https://xomdata.com/practice/medium-frequency-001
 -- Solved: 2026-08-23
 
