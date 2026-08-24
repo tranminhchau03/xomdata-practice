@@ -1,4 +1,4 @@
--- Xom Data · Chuỗi tuần ghé đều không nghỉ
+-- Xom Data · Consecutive weekly streak with no breaks
 -- Problem: https://xomdata.com/practice/hard-streak-003
 -- Solved: 2026-08-24
 
