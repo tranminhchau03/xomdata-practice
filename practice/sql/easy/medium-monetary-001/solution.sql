@@ -1,4 +1,4 @@
--- Xom Data · Ai đã tiêu vượt mốc năm triệu
+-- Xom Data · Who has spent past the five-million mark
 -- Problem: https://xomdata.com/practice/medium-monetary-001
 -- Solved: 2026-08-25
 

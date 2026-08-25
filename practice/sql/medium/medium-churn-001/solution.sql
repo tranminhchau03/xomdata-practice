@@ -1,4 +1,4 @@
--- Xom Data · Gắn nhãn khách còn gắn bó hay đã rời đi
+-- Xom Data · Labeling customers as retained or churned
 -- Problem: https://xomdata.com/practice/medium-churn-001
 -- Solved: 2026-08-25
 

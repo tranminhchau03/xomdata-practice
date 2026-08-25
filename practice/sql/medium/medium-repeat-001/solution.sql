@@ -1,4 +1,4 @@
--- Xom Data · Khách một lần ghé và khách quay lại
+-- Xom Data · One-time buyers vs. repeat customers
 -- Problem: https://xomdata.com/practice/medium-repeat-001
 -- Solved: 2026-08-25
 

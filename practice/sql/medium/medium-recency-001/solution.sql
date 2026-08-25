@@ -1,4 +1,4 @@
--- Xom Data · Bao lâu rồi khách chưa quay lại
+-- Xom Data · How Long Since a Customer Last Returned
 -- Problem: https://xomdata.com/practice/medium-recency-001
 -- Solved: 2026-08-25
 

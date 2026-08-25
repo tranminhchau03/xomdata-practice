@@ -1,4 +1,4 @@
--- Xom Data · Tháng chào sân của từng khách
+-- Xom Data · Each customer's debut month
 -- Problem: https://xomdata.com/practice/medium-cohort-003
 -- Solved: 2026-08-25
 
