@@ -1,4 +1,4 @@
--- Xom Data · Ba mươi ngày vắng bóng
+-- Xom Data · Thirty Days of Absence
 -- Problem: https://xomdata.com/practice/medium-recency-002
 -- Solved: 2026-08-26
 

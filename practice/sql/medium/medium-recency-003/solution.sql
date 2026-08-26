@@ -1,4 +1,4 @@
--- Xom Data · Bảng xếp hạng độ tươi của khách
+-- Xom Data · Customer Freshness Leaderboard
 -- Problem: https://xomdata.com/practice/medium-recency-003
 -- Solved: 2026-08-26
 

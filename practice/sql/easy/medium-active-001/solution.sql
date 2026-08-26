@@ -1,4 +1,4 @@
--- Xom Data · Nhịp khách ghé cửa hàng theo tháng
+-- Xom Data · Monthly store visit rhythm
 -- Problem: https://xomdata.com/practice/medium-active-001
 -- Solved: 2026-08-26
 

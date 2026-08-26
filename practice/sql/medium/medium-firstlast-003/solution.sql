@@ -1,4 +1,4 @@
--- Xom Data · Ấn tượng đầu tiên trị giá bao nhiêu
+-- Xom Data · What the First Impression Was Worth
 -- Problem: https://xomdata.com/practice/medium-firstlast-003
 -- Solved: 2026-08-26
 

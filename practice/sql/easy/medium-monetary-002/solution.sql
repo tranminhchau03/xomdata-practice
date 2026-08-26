@@ -1,4 +1,4 @@
--- Xom Data · Mỗi lần ghé, khách chi trung bình bao nhiêu
+-- Xom Data · Average spend per visit, per customer
 -- Problem: https://xomdata.com/practice/medium-monetary-002
 -- Solved: 2026-08-26
 

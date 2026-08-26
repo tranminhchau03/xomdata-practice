@@ -1,4 +1,4 @@
--- Xom Data · Kim cương, vàng hay thành viên thường
+-- Xom Data · Diamond, Gold, or regular member
 -- Problem: https://xomdata.com/practice/medium-classify-001
 -- Solved: 2026-08-26
 

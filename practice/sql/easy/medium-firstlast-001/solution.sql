@@ -1,4 +1,4 @@
--- Xom Data · Lần đầu và lần gần nhất của mỗi khách
+-- Xom Data · Each customer's first and most recent order
 -- Problem: https://xomdata.com/practice/medium-firstlast-001
 -- Solved: 2026-08-26
 

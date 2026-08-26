@@ -1,4 +1,4 @@
--- Xom Data · Cửa hàng giữ được bao nhiêu phần khách
+-- Xom Data · What share of customers does the shop retain
 -- Problem: https://xomdata.com/practice/medium-repeat-002
 -- Solved: 2026-08-26
 
