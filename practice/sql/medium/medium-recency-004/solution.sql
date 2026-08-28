@@ -1,4 +1,4 @@
--- Xom Data · Ba vòng tròn độ tươi của tệp khách
+-- Xom Data · Three Freshness Circles of the Customer Base
 -- Problem: https://xomdata.com/practice/medium-recency-004
 -- Solved: 2026-08-28
 

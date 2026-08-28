@@ -1,4 +1,4 @@
--- Xom Data · Miếng bánh doanh thu của từng khách
+-- Xom Data · Each Customer's Slice of Revenue
 -- Problem: https://xomdata.com/practice/medium-monetary-005
 -- Solved: 2026-08-28
 
