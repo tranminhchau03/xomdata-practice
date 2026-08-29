@@ -1,4 +1,4 @@
--- Xom Data · Thứ bậc chi tiêu trong nội bộ mỗi kênh
+-- Xom Data · Spending hierarchy within each channel
 -- Problem: https://xomdata.com/practice/medium-classify-002
 -- Solved: 2026-08-29
 

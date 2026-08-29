@@ -1,4 +1,4 @@
--- Xom Data · Hồ sơ ba chỉ số thô của từng khách
+-- Xom Data · Three raw metrics per customer profile
 -- Problem: https://xomdata.com/practice/medium-recency-006
 -- Solved: 2026-08-29
 

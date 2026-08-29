@@ -1,4 +1,4 @@
--- Xom Data · Khách phủ sóng nhiều tháng nhất
+-- Xom Data · Customer With the Widest Monthly Spread
 -- Problem: https://xomdata.com/practice/medium-frequency-005
 -- Solved: 2026-08-29
 

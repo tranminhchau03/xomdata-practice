@@ -1,4 +1,4 @@
--- Xom Data · Kênh nào đang giữ được hơi ấm
+-- Xom Data · Which Channel Is Keeping Its Warmth
 -- Problem: https://xomdata.com/practice/medium-recency-005
 -- Solved: 2026-08-29
 
