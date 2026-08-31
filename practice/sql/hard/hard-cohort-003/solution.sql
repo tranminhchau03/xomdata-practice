@@ -1,4 +1,4 @@
--- Xom Data · Người mới và người quen mỗi tháng
+-- Xom Data · New customers and returning customers each month
 -- Problem: https://xomdata.com/practice/hard-cohort-003
 -- Solved: 2026-08-31
 
