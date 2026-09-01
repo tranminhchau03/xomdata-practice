@@ -1,4 +1,4 @@
--- Xom Data · Chuỗi tháng ghé đều dài nhất
+-- Xom Data · Longest run of consecutive active months
 -- Problem: https://xomdata.com/practice/hard-streak-001
 -- Solved: 2026-09-01
 

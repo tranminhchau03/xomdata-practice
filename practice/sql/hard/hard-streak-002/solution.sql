@@ -1,4 +1,4 @@
--- Xom Data · Ai đang giữ phong độ đến tận hôm nay
+-- Xom Data · Who is still on an active streak today
 -- Problem: https://xomdata.com/practice/hard-streak-002
 -- Solved: 2026-09-01
 
