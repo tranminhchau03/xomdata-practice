@@ -1,4 +1,4 @@
--- Xom Data · Mã ba chữ số nói lên tất cả
+-- Xom Data · A three-digit code says it all
 -- Problem: https://xomdata.com/practice/hard-rfm-004
 -- Solved: 2026-09-04
 
