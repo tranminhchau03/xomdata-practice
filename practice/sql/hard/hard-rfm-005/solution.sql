@@ -1,4 +1,4 @@
--- Xom Data · Chấm điểm công bằng khi nhiều khách ngang tài
+-- Xom Data · Scoring fairly when multiple customers are tied
 -- Problem: https://xomdata.com/practice/hard-rfm-005
 -- Solved: 2026-09-05
 

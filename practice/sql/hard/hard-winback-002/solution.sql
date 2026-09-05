@@ -1,4 +1,4 @@
--- Xom Data · Đếm những sự trở lại mỗi tháng
+-- Xom Data · Counting comebacks each month
 -- Problem: https://xomdata.com/practice/hard-winback-002
 -- Solved: 2026-09-05
 
