@@ -1,4 +1,4 @@
--- Xom Data · Còn sống sót tính từ tháng thứ hai trở đi
+-- Xom Data · Surviving from the second month onward
 -- Problem: https://xomdata.com/practice/hard-retention-005
 -- Solved: 2026-09-06
 
