@@ -4,26 +4,26 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**105** problems solved on [Xom Data](https://xomdata.com/practice).
+**145** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 32 | 54 | 18 | 1 | 105 |
+| SQL | 35 | 75 | 34 | 1 | 145 |
 
 **Recently solved**
 
-- [hard-cohort-002](https://xomdata.com/practice/hard-cohort-002) · Hard · 2026-08-22
-- [hard-rfm-002](https://xomdata.com/practice/hard-rfm-002) · Hard · 2026-08-22
-- [hard-gapfill-001](https://xomdata.com/practice/hard-gapfill-001) · Hard · 2026-08-20
-- [hard-recursive-001](https://xomdata.com/practice/hard-recursive-001) · Hard · 2026-08-20
-- [hard-retention-001](https://xomdata.com/practice/hard-retention-001) · Hard · 2026-08-17
-- [hard-pivot-001](https://xomdata.com/practice/hard-pivot-001) · Hard · 2026-08-17
-- [medium-denserank-002](https://xomdata.com/practice/medium-denserank-002) · Medium · 2026-08-17
-- [medium-denserank-001](https://xomdata.com/practice/medium-denserank-001) · Medium · 2026-08-17
-- [medium-dedup-003](https://xomdata.com/practice/medium-dedup-003) · Medium · 2026-08-17
-- [medium-dedup-002](https://xomdata.com/practice/medium-dedup-002) · Medium · 2026-08-17
+- [hard-retention-005](https://xomdata.com/practice/hard-retention-005) · Hard · 2026-09-06
+- [hard-rfm-005](https://xomdata.com/practice/hard-rfm-005) · Hard · 2026-09-05
+- [hard-winback-002](https://xomdata.com/practice/hard-winback-002) · Hard · 2026-09-05
+- [hard-gap-003](https://xomdata.com/practice/hard-gap-003) · Hard · 2026-09-04
+- [hard-rfm-004](https://xomdata.com/practice/hard-rfm-004) · Hard · 2026-09-04
+- [easy-leftjoin-002](https://xomdata.com/practice/easy-leftjoin-002) · Easy · 2026-09-03
+- [hard-cohort-004](https://xomdata.com/practice/hard-cohort-004) · Hard · 2026-09-02
+- [hard-rfm-006](https://xomdata.com/practice/hard-rfm-006) · Hard · 2026-09-01
+- [hard-streak-002](https://xomdata.com/practice/hard-streak-002) · Hard · 2026-09-01
+- [hard-streak-001](https://xomdata.com/practice/hard-streak-001) · Hard · 2026-09-01
 
-_Synced 105 solutions · last update 2026-08-22_
+_Synced 145 solutions · last update 2026-09-06_
 
 <!-- xomdata:stats:end -->
 
