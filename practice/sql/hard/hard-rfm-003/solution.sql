@@ -1,4 +1,4 @@
--- Xom Data · Điểm tươi mới cộng điểm chuyên cần
+-- Xom Data · Freshness score plus diligence points
 -- Problem: https://xomdata.com/practice/hard-rfm-003
 -- Solved: 2026-09-08
 
