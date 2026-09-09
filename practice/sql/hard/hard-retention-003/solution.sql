@@ -1,4 +1,4 @@
--- Xom Data · Còn quay lại trong tuần kế tiếp không
+-- Xom Data · Does anyone return the following week
 -- Problem: https://xomdata.com/practice/hard-retention-003
 -- Solved: 2026-09-09
 
