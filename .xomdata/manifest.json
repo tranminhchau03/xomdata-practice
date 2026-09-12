@@ -143,5 +143,22 @@
   "practice/sql/hard/hard-gap-003/solution.sql": "b2c9a903947ba5e89dc4e598bc22c48838ea453311d3e6b1b08200d7af17f3cf",
   "practice/sql/hard/hard-winback-002/solution.sql": "291ff31f127b7746abf49d5f6fe3d7c5e2d8ad9897799235664edfe5926ff72c",
   "practice/sql/hard/hard-rfm-005/solution.sql": "f3dedb1ca214ee0d523ee1edaa2ddaa850c776e5bff06aac71c6cf78db5b6f22",
-  "practice/sql/hard/hard-retention-005/solution.sql": "aba312ddd754f334bb641e6969604913f50f98430122d5ab801c4e234b300ad6"
+  "practice/sql/hard/hard-retention-005/solution.sql": "aba312ddd754f334bb641e6969604913f50f98430122d5ab801c4e234b300ad6",
+  "practice/sql/easy/medium-monetary-001/solution.sql": "6868c806d007f00c1fe63486dbd962b3c8399826d3b91e5420729a8ecf8dfa80",
+  "practice/sql/easy/medium-cohort-003/solution.sql": "4d51b1f43197725f5405e67d473bb80aac5787d2c8f77b4cc17fea3bacb6655c",
+  "practice/sql/easy/medium-active-001/solution.sql": "de1099f4e86ff318aefb516d08b8733309b4d37dcd804d4f90267aa3bd4f03f2",
+  "practice/sql/easy/medium-monetary-002/solution.sql": "09b587af6e85bb8541ab8bde08fe8f1cfb7c1e987f505309551cd3f3b56eada8",
+  "practice/sql/easy/medium-firstlast-001/solution.sql": "d27783fe93dabdc1ce9b54598ea950c17c15ee68e4daad5b88a6aa629808ba7a",
+  "practice/sql/hard/medium-classify-002/solution.sql": "f79b32358c326441cd910ad1efe6756d2698c035a3482fbb90063989d117a551",
+  "practice/sql/hard/hard-ltv-002/solution.sql": "ea642a7cfe2ac36dc3057b967361afa33d97b71dcda0721426e91a444642eeb5",
+  "practice/sql/hard/hard-gap-002/solution.sql": "3ffe7ba387394e4c2a3cdaa9a57f28c079894529410e668eb7a2ae3b06345a5c",
+  "practice/sql/easy/easy-join-004/solution.sql": "30b0652ba662a93c17709662f7cda1becd55431bc0fbb121f79ea7d05675f56b",
+  "practice/sql/hard/hard-rfm-003/solution.sql": "c255c5dc420269b69e0819270eeb12af4fac88852ee0484ac6b9a70128828469",
+  "practice/sql/hard/hard-retention-003/solution.sql": "b1b8e03172f3cb5ae0fc4a940b33ebd9678b89f99a6cad1da73d6544ab3d8bc4",
+  "practice/sql/nightmare/nightmare-streak-001/solution.sql": "8d9cd22535018acf0a387da53e467e855d20e2af78c57d9b7d96a4f686026d5d",
+  "practice/sql/nightmare/nightmare-top3-dept-001/solution.sql": "19029e8257ab9aa171b4090b6c7a014eaf5c8c04159c64f927d578a04edc0920",
+  "practice/sql/nightmare/sql-nightmare-004/solution.sql": "f498d7e85b54030906afd5a651cd80138d0cccb631ed903c656f1202b3f90965",
+  "practice/sql/nightmare/nightmare-cancel-rate-001/solution.sql": "f4f90f0804bfe555592259081a2e8d67b7bd9c3a568da99e79dfd48109116b45",
+  "practice/sql/nightmare/nightmare-consecutive-001/solution.sql": "bbf58c5a72115db98fd59c37668296c1b6905d4ed5f9790c273e18a3fc9a9e40",
+  "practice/sql/nightmare/nightmare-cumulative-salary-001/solution.sql": "c1efaa5d0188df6011d31bbaba7940400f254dbdfb19618ef36229b07c855aa5"
 }
