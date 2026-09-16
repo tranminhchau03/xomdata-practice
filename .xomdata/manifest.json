@@ -169,5 +169,6 @@
   "practice/sql/nightmare/sql-nightmare-002/solution.sql": "6de01535443edefd631b6320171b3ff44ab396257d6f2d72af985a1027d729c9",
   "practice/sql/nightmare/nightmare-interval-merge-001/solution.sql": "c3238a811c5ba82d9269b715ee4dcf7bc6a7f84e6acfb9bb517ef2fc82c66f57",
   "practice/sql/nightmare/sql-nightmare-003/solution.sql": "7b843d8a9661307a278f99b2f4e46fa231949fa9d111cb1be63a669e083552f5",
-  "practice/sql/nightmare/sql-nightmare-010/solution.sql": "0d434f6a2ae07df5bd42fde5ffdd99a136091e6bde68a6dceaf131e2cdf9b3ac"
+  "practice/sql/nightmare/sql-nightmare-010/solution.sql": "0d434f6a2ae07df5bd42fde5ffdd99a136091e6bde68a6dceaf131e2cdf9b3ac",
+  "practice/sql/nightmare/sql-nightmare-007/solution.sql": "5668e5dc24cd025704569313fae579aee120eb8d37a15c44d47c62ab8a41b675"
 }

@@ -4,14 +4,15 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**165** problems solved on [Xom Data](https://xomdata.com/practice).
+**166** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 41 | 69 | 39 | 16 | 165 |
+| SQL | 41 | 69 | 39 | 17 | 166 |
 
 **Recently solved**
 
+- [sql-nightmare-007](https://xomdata.com/practice/sql-nightmare-007) · Nightmare · 2026-09-16
 - [sql-nightmare-010](https://xomdata.com/practice/sql-nightmare-010) · Nightmare · 2026-09-16
 - [sql-nightmare-003](https://xomdata.com/practice/sql-nightmare-003) · Nightmare · 2026-09-16
 - [nightmare-interval-merge-001](https://xomdata.com/practice/nightmare-interval-merge-001) · Nightmare · 2026-09-15
@@ -21,9 +22,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [sql-nightmare-009](https://xomdata.com/practice/sql-nightmare-009) · Nightmare · 2026-09-13
 - [sql-nightmare-008](https://xomdata.com/practice/sql-nightmare-008) · Nightmare · 2026-09-13
 - [nightmare-active-users-001](https://xomdata.com/practice/nightmare-active-users-001) · Nightmare · 2026-09-13
-- [nightmare-cumulative-salary-001](https://xomdata.com/practice/nightmare-cumulative-salary-001) · Nightmare · 2026-09-12
 
-_Synced 171 solutions · last update 2026-09-16_
+_Synced 172 solutions · last update 2026-09-16_
 
 <!-- xomdata:stats:end -->
 
