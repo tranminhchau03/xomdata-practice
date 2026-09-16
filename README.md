@@ -4,26 +4,26 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**156** problems solved on [Xom Data](https://xomdata.com/practice).
+**165** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 41 | 69 | 39 | 7 | 156 |
+| SQL | 41 | 69 | 39 | 16 | 165 |
 
 **Recently solved**
 
+- [sql-nightmare-010](https://xomdata.com/practice/sql-nightmare-010) · Nightmare · 2026-09-16
+- [sql-nightmare-003](https://xomdata.com/practice/sql-nightmare-003) · Nightmare · 2026-09-16
+- [nightmare-interval-merge-001](https://xomdata.com/practice/nightmare-interval-merge-001) · Nightmare · 2026-09-15
+- [sql-nightmare-002](https://xomdata.com/practice/sql-nightmare-002) · Nightmare · 2026-09-15
+- [expert-final-subq-003](https://xomdata.com/practice/expert-final-subq-003) · Nightmare · 2026-09-15
+- [nightmare-greedy-capacity-001](https://xomdata.com/practice/nightmare-greedy-capacity-001) · Nightmare · 2026-09-14
+- [sql-nightmare-009](https://xomdata.com/practice/sql-nightmare-009) · Nightmare · 2026-09-13
+- [sql-nightmare-008](https://xomdata.com/practice/sql-nightmare-008) · Nightmare · 2026-09-13
+- [nightmare-active-users-001](https://xomdata.com/practice/nightmare-active-users-001) · Nightmare · 2026-09-13
 - [nightmare-cumulative-salary-001](https://xomdata.com/practice/nightmare-cumulative-salary-001) · Nightmare · 2026-09-12
-- [nightmare-consecutive-001](https://xomdata.com/practice/nightmare-consecutive-001) · Nightmare · 2026-09-12
-- [nightmare-cancel-rate-001](https://xomdata.com/practice/nightmare-cancel-rate-001) · Nightmare · 2026-09-12
-- [sql-nightmare-004](https://xomdata.com/practice/sql-nightmare-004) · Nightmare · 2026-09-11
-- [nightmare-top3-dept-001](https://xomdata.com/practice/nightmare-top3-dept-001) · Nightmare · 2026-09-11
-- [nightmare-streak-001](https://xomdata.com/practice/nightmare-streak-001) · Nightmare · 2026-09-10
-- [hard-retention-003](https://xomdata.com/practice/hard-retention-003) · Hard · 2026-09-09
-- [hard-rfm-003](https://xomdata.com/practice/hard-rfm-003) · Hard · 2026-09-08
-- [easy-join-004](https://xomdata.com/practice/easy-join-004) · Easy · 2026-09-07
-- [hard-gap-002](https://xomdata.com/practice/hard-gap-002) · Hard · 2026-09-06
 
-_Synced 162 solutions · last update 2026-09-12_
+_Synced 171 solutions · last update 2026-09-16_
 
 <!-- xomdata:stats:end -->
 
