@@ -170,5 +170,15 @@
   "practice/sql/nightmare/nightmare-interval-merge-001/solution.sql": "c3238a811c5ba82d9269b715ee4dcf7bc6a7f84e6acfb9bb517ef2fc82c66f57",
   "practice/sql/nightmare/sql-nightmare-003/solution.sql": "7b843d8a9661307a278f99b2f4e46fa231949fa9d111cb1be63a669e083552f5",
   "practice/sql/nightmare/sql-nightmare-010/solution.sql": "0d434f6a2ae07df5bd42fde5ffdd99a136091e6bde68a6dceaf131e2cdf9b3ac",
-  "practice/sql/nightmare/sql-nightmare-007/solution.sql": "5668e5dc24cd025704569313fae579aee120eb8d37a15c44d47c62ab8a41b675"
+  "practice/sql/nightmare/sql-nightmare-007/solution.sql": "5668e5dc24cd025704569313fae579aee120eb8d37a15c44d47c62ab8a41b675",
+  "practice/sql/easy/easy-having-001/solution.sql": "fcc1b35165d3f84dbd39f0cc71b86b6482ee5c1f907e93189a5f7c3aefe72b99",
+  "practice/sql/easy/easy-between-001/solution.sql": "25774199d3f5f6f78af8503c5bc7389e78920adf7ca9b3904e6b3154e7d7517f",
+  "practice/sql/easy/easy-groupby-003/solution.sql": "ddd7d9323213a881712f363e52bac3fdb0bd31ea2b84d98c25aef45747e1eabf",
+  "practice/sql/easy/easy-case-001/solution.sql": "08a052a04076908a2b4c848591df9999c929585269f366d72a980bbfffa3144e",
+  "practice/sql/easy/easy-between-002/solution.sql": "bb8ea47a5aaacb8fe6437b570a69b7bf0c047bbafb19817d4be7c99effbf3501",
+  "practice/sql/easy/easy-case-002/solution.sql": "43a9a66a55ec976af81bafd625008c50be0d8cbb94d36b3ec83fec98c2eba071",
+  "practice/sql/nightmare/nightmare-pipeline-001/solution.sql": "643ac2c1fa7c1c81c7696a6cb17013bf7b715797f58177b420a10b35411d99f4",
+  "practice/sql/nightmare/expert-final-agg-001/solution.sql": "040bd54b90a9c10fa3acb7c3f0c7e4aef418f753922aa4ad4f8d5192d3d9d465",
+  "practice/sql/hard/hard-winback-001/solution.sql": "3013bd245198d08ee04d288c98f17529c8e97e6b449bccfd6375071cc459fcbb",
+  "practice/sql/hard/hard-churn-003/solution.sql": "78e02b18a68e3963c85124657c23b053707ee85aae372f0240716975f4d8b848"
 }

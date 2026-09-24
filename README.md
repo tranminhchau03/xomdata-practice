@@ -4,26 +4,26 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**166** problems solved on [Xom Data](https://xomdata.com/practice).
+**176** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 41 | 69 | 39 | 17 | 166 |
+| SQL | 47 | 69 | 41 | 19 | 176 |
 
 **Recently solved**
 
-- [sql-nightmare-007](https://xomdata.com/practice/sql-nightmare-007) · Nightmare · 2026-09-16
-- [sql-nightmare-010](https://xomdata.com/practice/sql-nightmare-010) · Nightmare · 2026-09-16
-- [sql-nightmare-003](https://xomdata.com/practice/sql-nightmare-003) · Nightmare · 2026-09-16
-- [nightmare-interval-merge-001](https://xomdata.com/practice/nightmare-interval-merge-001) · Nightmare · 2026-09-15
-- [sql-nightmare-002](https://xomdata.com/practice/sql-nightmare-002) · Nightmare · 2026-09-15
-- [expert-final-subq-003](https://xomdata.com/practice/expert-final-subq-003) · Nightmare · 2026-09-15
-- [nightmare-greedy-capacity-001](https://xomdata.com/practice/nightmare-greedy-capacity-001) · Nightmare · 2026-09-14
-- [sql-nightmare-009](https://xomdata.com/practice/sql-nightmare-009) · Nightmare · 2026-09-13
-- [sql-nightmare-008](https://xomdata.com/practice/sql-nightmare-008) · Nightmare · 2026-09-13
-- [nightmare-active-users-001](https://xomdata.com/practice/nightmare-active-users-001) · Nightmare · 2026-09-13
+- [hard-churn-003](https://xomdata.com/practice/hard-churn-003) · Hard · 2026-09-24
+- [hard-winback-001](https://xomdata.com/practice/hard-winback-001) · Hard · 2026-09-24
+- [expert-final-agg-001](https://xomdata.com/practice/expert-final-agg-001) · Nightmare · 2026-09-23
+- [nightmare-pipeline-001](https://xomdata.com/practice/nightmare-pipeline-001) · Nightmare · 2026-09-23
+- [easy-case-002](https://xomdata.com/practice/easy-case-002) · Easy · 2026-09-22
+- [easy-between-002](https://xomdata.com/practice/easy-between-002) · Easy · 2026-09-21
+- [easy-case-001](https://xomdata.com/practice/easy-case-001) · Easy · 2026-09-20
+- [easy-groupby-003](https://xomdata.com/practice/easy-groupby-003) · Easy · 2026-09-19
+- [easy-between-001](https://xomdata.com/practice/easy-between-001) · Easy · 2026-09-18
+- [easy-having-001](https://xomdata.com/practice/easy-having-001) · Easy · 2026-09-17
 
-_Synced 172 solutions · last update 2026-09-16_
+_Synced 182 solutions · last update 2026-09-24_
 
 <!-- xomdata:stats:end -->
 
