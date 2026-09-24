@@ -1,4 +1,4 @@
--- Xom Data · Tỷ lệ thất thoát khách theo từng tháng
+-- Xom Data · Monthly customer churn rate
 -- Problem: https://xomdata.com/practice/hard-churn-003
 -- Solved: 2026-09-24
 
