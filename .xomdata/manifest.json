@@ -191,5 +191,8 @@
   "practice/sql/medium/medium-topn-002/solution.sql": "96ff8bdb82f887d86a36b39fd470c47e4ece1bd12dbd2d1a5c13e7b1624d8673",
   "practice/sql/nightmare/nightmare-nextgreater-001/solution.sql": "c74d5f5d3d8f5ad96481fd19d4483830b6537bc5abc641946befbde5703b4052",
   "practice/sql/medium/medium-firstval-001/solution.sql": "6cbd74ac2c211d656ee53e81e30559485cf393fbad137737e438fbac541f1b9d",
-  "practice/sql/nightmare/nightmare-statemachine-001/solution.sql": "2b5344d68d31f4393452123775db210978b9bdb91c527fd5b57d6f7a60018843"
+  "practice/sql/nightmare/nightmare-statemachine-001/solution.sql": "2b5344d68d31f4393452123775db210978b9bdb91c527fd5b57d6f7a60018843",
+  "practice/sql/nightmare/sql-nightmare-001/solution.sql": "ff90fee2c1ae761dbfb098a87560ae1262a652c14e8a0dca5ab9556b46440c69",
+  "practice/sql/nightmare/sql-nightmare-005/solution.sql": "ef36af40abc7fb56835386e5e006ba4eeb59bda5a2f4d22f8ba82cfbf3576d6d",
+  "practice/sql/nightmare/nightmare-exchange-seats-001/solution.sql": "dfa44b0ce50f2cfe460f0489369c5234fa6a11a309f4886c37f2fb5de1c20d3b"
 }

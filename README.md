@@ -4,14 +4,17 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**187** problems solved on [Xom Data](https://xomdata.com/practice).
+**190** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 53 | 72 | 41 | 21 | 187 |
+| SQL | 53 | 72 | 41 | 24 | 190 |
 
 **Recently solved**
 
+- [nightmare-exchange-seats-001](https://xomdata.com/practice/nightmare-exchange-seats-001) · Nightmare · 2026-10-05
+- [sql-nightmare-005](https://xomdata.com/practice/sql-nightmare-005) · Nightmare · 2026-10-05
+- [sql-nightmare-001](https://xomdata.com/practice/sql-nightmare-001) · Nightmare · 2026-10-05
 - [nightmare-statemachine-001](https://xomdata.com/practice/nightmare-statemachine-001) · Nightmare · 2026-10-04
 - [medium-firstval-001](https://xomdata.com/practice/medium-firstval-001) · Medium · 2026-10-04
 - [nightmare-nextgreater-001](https://xomdata.com/practice/nightmare-nextgreater-001) · Nightmare · 2026-10-03
@@ -19,11 +22,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [medium-topn-001](https://xomdata.com/practice/medium-topn-001) · Medium · 2026-10-01
 - [easy-join-001](https://xomdata.com/practice/easy-join-001) · Easy · 2026-09-30
 - [easy-isnull-003](https://xomdata.com/practice/easy-isnull-003) · Easy · 2026-09-29
-- [easy-groupby-002](https://xomdata.com/practice/easy-groupby-002) · Easy · 2026-09-28
-- [easy-in-002](https://xomdata.com/practice/easy-in-002) · Easy · 2026-09-27
-- [easy-concat-001](https://xomdata.com/practice/easy-concat-001) · Easy · 2026-09-26
 
-_Synced 193 solutions · last update 2026-10-04_
+_Synced 196 solutions · last update 2026-10-05_
 
 <!-- xomdata:stats:end -->
 
