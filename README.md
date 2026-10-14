@@ -4,26 +4,26 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**205** problems solved on [Xom Data](https://xomdata.com/practice).
+**210** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 53 | 80 | 44 | 28 | 205 |
+| SQL | 56 | 80 | 46 | 28 | 210 |
 
 **Recently solved**
 
+- [easy-count-011](https://xomdata.com/practice/easy-count-011) · Easy · 2026-10-14
+- [easy-distinct-008](https://xomdata.com/practice/easy-distinct-008) · Easy · 2026-10-14
+- [easy-coalesce-001](https://xomdata.com/practice/easy-coalesce-001) · Easy · 2026-10-14
+- [hard-percentile-001](https://xomdata.com/practice/hard-percentile-001) · Hard · 2026-10-13
+- [hard-session-001](https://xomdata.com/practice/hard-session-001) · Hard · 2026-10-12
 - [nightmare-stadium-001](https://xomdata.com/practice/nightmare-stadium-001) · Nightmare · 2026-10-12
 - [hard-ltv-001](https://xomdata.com/practice/hard-ltv-001) · Hard · 2026-10-11
 - [medium-lag-002](https://xomdata.com/practice/medium-lag-002) · Medium · 2026-10-10
 - [medium-lag-001](https://xomdata.com/practice/medium-lag-001) · Medium · 2026-10-10
 - [expert-final-mix-009](https://xomdata.com/practice/expert-final-mix-009) · Nightmare · 2026-10-09
-- [medium-winagg-009](https://xomdata.com/practice/medium-winagg-009) · Medium · 2026-10-08
-- [medium-topn-003](https://xomdata.com/practice/medium-topn-003) · Medium · 2026-10-08
-- [medium-winagg-003](https://xomdata.com/practice/medium-winagg-003) · Medium · 2026-10-08
-- [medium-winjoin-004](https://xomdata.com/practice/medium-winjoin-004) · Medium · 2026-10-08
-- [medium-denserank-003](https://xomdata.com/practice/medium-denserank-003) · Medium · 2026-10-08
 
-_Synced 211 solutions · last update 2026-10-12_
+_Synced 216 solutions · last update 2026-10-14_
 
 <!-- xomdata:stats:end -->
 

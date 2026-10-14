@@ -209,5 +209,10 @@
   "practice/sql/medium/medium-lag-001/solution.sql": "ff9898af11861b0e49fdb4d9f115af0a03c86377db9ec5914a6e3187402d425b",
   "practice/sql/medium/medium-lag-002/solution.sql": "4965b441572b4c851736926e3cb5c03a196f7e7d03d159a2de6f48758fabb050",
   "practice/sql/hard/hard-ltv-001/solution.sql": "2ef116e786bfff140497174363bc1f03883462381b3835911ed7f705e4c2b1d1",
-  "practice/sql/nightmare/nightmare-stadium-001/solution.sql": "c2ef669a18b470c162af8b2c282827598a99e2fc0a25b9ce88eb8a7d9114aad2"
+  "practice/sql/nightmare/nightmare-stadium-001/solution.sql": "c2ef669a18b470c162af8b2c282827598a99e2fc0a25b9ce88eb8a7d9114aad2",
+  "practice/sql/hard/hard-session-001/solution.sql": "a3da49e14837dbf850d34bbd9844de209a947caca287d631fd5411f62f1d3d12",
+  "practice/sql/hard/hard-percentile-001/solution.sql": "9967487e5d4d173813aecb441327a9e62481e36bdb969846327616022aecdad0",
+  "practice/sql/easy/easy-coalesce-001/solution.sql": "cf3fd77865d700d9e191d493c3f59989a2dedbd05aa65c852ff46b376488fd69",
+  "practice/sql/easy/easy-distinct-008/solution.sql": "68c2b080715cdbafcbb6340259f2590ed3e8bbca1a413e731294668462bd424a",
+  "practice/sql/easy/easy-count-011/solution.sql": "5baa4b2627e4dcf74409464729feafd8e7aec095f3bce1af1bffe6c9c92a919f"
 }
