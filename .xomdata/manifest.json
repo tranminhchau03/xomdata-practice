@@ -214,5 +214,12 @@
   "practice/sql/hard/hard-percentile-001/solution.sql": "9967487e5d4d173813aecb441327a9e62481e36bdb969846327616022aecdad0",
   "practice/sql/easy/easy-coalesce-001/solution.sql": "cf3fd77865d700d9e191d493c3f59989a2dedbd05aa65c852ff46b376488fd69",
   "practice/sql/easy/easy-distinct-008/solution.sql": "68c2b080715cdbafcbb6340259f2590ed3e8bbca1a413e731294668462bd424a",
-  "practice/sql/easy/easy-count-011/solution.sql": "5baa4b2627e4dcf74409464729feafd8e7aec095f3bce1af1bffe6c9c92a919f"
+  "practice/sql/easy/easy-count-011/solution.sql": "5baa4b2627e4dcf74409464729feafd8e7aec095f3bce1af1bffe6c9c92a919f",
+  "practice/sql/nightmare/nightmare-prorate-001/solution.sql": "8a5a5c63cc5abf0ab03669d62d4ce8f81568bce87b642627958053e9c1bb4a39",
+  "practice/sql/nightmare/nightmare-tournament-001/solution.sql": "eb0c6fd6387d4dfb6d0d5d570d4043ec92aab10718038aa649dffced6f3ad878",
+  "practice/sql/nightmare/expert-final-win-008/solution.sql": "775a2d26e060fe7b620c869b241836ed68f8ab1578b9d1e858aff6538968e1bf",
+  "practice/sql/hard/hard-retention-009/solution.sql": "ba4a1f4287b2ce208f9a07ff2cfee0878f457946c6ae4a29b30692da2db4bc95",
+  "practice/sql/medium/medium-cohort-004/solution.sql": "9b37104a98a74fe989c276938406faddd0909711c77f9d94ade3a378d78617a9",
+  "practice/sql/medium/medium-winagg-002/solution.sql": "959ce4f5eb40560496293c9a4af2b345bb84dc929e91d669a4972c7be3c87940",
+  "practice/sql/hard/hard-retention-004/solution.sql": "3eec2b8c79d0fe0c110da98297ab1b5104382692989ede9658c6e583e216f4b0"
 }

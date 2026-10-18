@@ -4,26 +4,26 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**210** problems solved on [Xom Data](https://xomdata.com/practice).
+**217** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 56 | 80 | 46 | 28 | 210 |
+| SQL | 56 | 82 | 48 | 31 | 217 |
 
 **Recently solved**
 
+- [hard-retention-004](https://xomdata.com/practice/hard-retention-004) · Hard · 2026-10-18
+- [medium-winagg-002](https://xomdata.com/practice/medium-winagg-002) · Medium · 2026-10-17
+- [medium-cohort-004](https://xomdata.com/practice/medium-cohort-004) · Medium · 2026-10-16
+- [hard-retention-009](https://xomdata.com/practice/hard-retention-009) · Hard · 2026-10-16
+- [expert-final-win-008](https://xomdata.com/practice/expert-final-win-008) · Nightmare · 2026-10-15
+- [nightmare-tournament-001](https://xomdata.com/practice/nightmare-tournament-001) · Nightmare · 2026-10-15
+- [nightmare-prorate-001](https://xomdata.com/practice/nightmare-prorate-001) · Nightmare · 2026-10-15
 - [easy-count-011](https://xomdata.com/practice/easy-count-011) · Easy · 2026-10-14
 - [easy-distinct-008](https://xomdata.com/practice/easy-distinct-008) · Easy · 2026-10-14
 - [easy-coalesce-001](https://xomdata.com/practice/easy-coalesce-001) · Easy · 2026-10-14
-- [hard-percentile-001](https://xomdata.com/practice/hard-percentile-001) · Hard · 2026-10-13
-- [hard-session-001](https://xomdata.com/practice/hard-session-001) · Hard · 2026-10-12
-- [nightmare-stadium-001](https://xomdata.com/practice/nightmare-stadium-001) · Nightmare · 2026-10-12
-- [hard-ltv-001](https://xomdata.com/practice/hard-ltv-001) · Hard · 2026-10-11
-- [medium-lag-002](https://xomdata.com/practice/medium-lag-002) · Medium · 2026-10-10
-- [medium-lag-001](https://xomdata.com/practice/medium-lag-001) · Medium · 2026-10-10
-- [expert-final-mix-009](https://xomdata.com/practice/expert-final-mix-009) · Nightmare · 2026-10-09
 
-_Synced 216 solutions · last update 2026-10-14_
+_Synced 223 solutions · last update 2026-10-18_
 
 <!-- xomdata:stats:end -->
 
