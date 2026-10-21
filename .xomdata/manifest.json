@@ -221,5 +221,20 @@
   "practice/sql/hard/hard-retention-009/solution.sql": "ba4a1f4287b2ce208f9a07ff2cfee0878f457946c6ae4a29b30692da2db4bc95",
   "practice/sql/medium/medium-cohort-004/solution.sql": "9b37104a98a74fe989c276938406faddd0909711c77f9d94ade3a378d78617a9",
   "practice/sql/medium/medium-winagg-002/solution.sql": "959ce4f5eb40560496293c9a4af2b345bb84dc929e91d669a4972c7be3c87940",
-  "practice/sql/hard/hard-retention-004/solution.sql": "3eec2b8c79d0fe0c110da98297ab1b5104382692989ede9658c6e583e216f4b0"
+  "practice/sql/hard/hard-retention-004/solution.sql": "3eec2b8c79d0fe0c110da98297ab1b5104382692989ede9658c6e583e216f4b0",
+  "practice/sql/medium/medium-gap-001/solution.sql": "ecb026281b3b8770a7bc5f78a84f7eb81278c626ba55ecc47f2f8746d69c8b46",
+  "practice/sql/easy/medium-churn-002/solution.sql": "8aac418cb34de4e7be886765affe97617fa412507d22291947e703ab43da94d2",
+  "practice/sql/medium/medium-cohort-005/solution.sql": "0b34033a67e10cbdecaae38750ab7811497070efb8e0b66bfab967d48395ac4f",
+  "practice/sql/easy/medium-active-002/solution.sql": "bcdeb867111642ec239741a6d79a234de637caa948fd8ad8bbe8ebf27022cf67",
+  "practice/sql/medium/medium-churn-003/solution.sql": "df7347ec777260e8d9e22756a6b6ebe976f293b4c1de2b477eccb7a2971270bf",
+  "practice/sql/medium/medium-cohort-006/solution.sql": "de5a4324fc1a954008e0626248db66a0699f2b607a1a94a831967d5ac623569e",
+  "practice/sql/medium/medium-churn-004/solution.sql": "b9fcfea1c7a258cd9764c134b926cab61a8d585025de0c40b47f94069bab3842",
+  "practice/sql/medium/medium-active-003/solution.sql": "77af4431da330ec7ecabe962d161acc78b9080a01179e8d6b82228575d84e268",
+  "practice/sql/hard/medium-gap-002/solution.sql": "2e02f280e00eb1b7a489fc23833289e1c7e067bb25df743e03fa8d05f072a5d8",
+  "practice/sql/easy/medium-active-004/solution.sql": "d642bb10c68fd78e38d93ccd83b755629d660a935fa206e93fc0784807fb5f1a",
+  "practice/sql/medium/medium-cohort-007/solution.sql": "a412036af1f5121c37143e1f0eebb6fc8c97b4a7ec6c4e4d7c08385b100f57e8",
+  "practice/sql/medium/medium-churn-005/solution.sql": "7073a254f394e7776e72adac036258b5f7f9c57c47aff2fdd933a70fbee59525",
+  "practice/sql/medium/medium-active-005/solution.sql": "b214d2d9d5041dabb94de7873c943a5f1ad3a7d0492564512f4349cbd6cb35a4",
+  "practice/sql/hard/medium-repeat-004/solution.sql": "6d4a1579bc5a86463cd12a42513b0c95d0d702a29ed1c056d82d1e939a354175",
+  "practice/sql/hard/medium-repeat-005/solution.sql": "60c33ae0de5681a9ffbacd517fd5b2845c45c662ea0755899fea9f9d39202646"
 }

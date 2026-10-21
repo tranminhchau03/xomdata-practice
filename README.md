@@ -4,26 +4,26 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**217** problems solved on [Xom Data](https://xomdata.com/practice).
+**232** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 56 | 82 | 48 | 31 | 217 |
+| SQL | 59 | 91 | 51 | 31 | 232 |
 
 **Recently solved**
 
-- [hard-retention-004](https://xomdata.com/practice/hard-retention-004) · Hard · 2026-10-18
-- [medium-winagg-002](https://xomdata.com/practice/medium-winagg-002) · Medium · 2026-10-17
-- [medium-cohort-004](https://xomdata.com/practice/medium-cohort-004) · Medium · 2026-10-16
-- [hard-retention-009](https://xomdata.com/practice/hard-retention-009) · Hard · 2026-10-16
-- [expert-final-win-008](https://xomdata.com/practice/expert-final-win-008) · Nightmare · 2026-10-15
-- [nightmare-tournament-001](https://xomdata.com/practice/nightmare-tournament-001) · Nightmare · 2026-10-15
-- [nightmare-prorate-001](https://xomdata.com/practice/nightmare-prorate-001) · Nightmare · 2026-10-15
-- [easy-count-011](https://xomdata.com/practice/easy-count-011) · Easy · 2026-10-14
-- [easy-distinct-008](https://xomdata.com/practice/easy-distinct-008) · Easy · 2026-10-14
-- [easy-coalesce-001](https://xomdata.com/practice/easy-coalesce-001) · Easy · 2026-10-14
+- [medium-repeat-005](https://xomdata.com/practice/medium-repeat-005) · Hard · 2026-10-21
+- [medium-repeat-004](https://xomdata.com/practice/medium-repeat-004) · Hard · 2026-10-21
+- [medium-active-005](https://xomdata.com/practice/medium-active-005) · Medium · 2026-10-21
+- [medium-churn-005](https://xomdata.com/practice/medium-churn-005) · Medium · 2026-10-21
+- [medium-cohort-007](https://xomdata.com/practice/medium-cohort-007) · Medium · 2026-10-21
+- [medium-active-004](https://xomdata.com/practice/medium-active-004) · Easy · 2026-10-20
+- [medium-gap-002](https://xomdata.com/practice/medium-gap-002) · Hard · 2026-10-20
+- [medium-active-003](https://xomdata.com/practice/medium-active-003) · Medium · 2026-10-20
+- [medium-churn-004](https://xomdata.com/practice/medium-churn-004) · Medium · 2026-10-20
+- [medium-cohort-006](https://xomdata.com/practice/medium-cohort-006) · Medium · 2026-10-20
 
-_Synced 223 solutions · last update 2026-10-18_
+_Synced 238 solutions · last update 2026-10-21_
 
 <!-- xomdata:stats:end -->
 
