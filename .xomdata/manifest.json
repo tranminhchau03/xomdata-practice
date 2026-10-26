@@ -236,5 +236,19 @@
   "practice/sql/medium/medium-churn-005/solution.sql": "7073a254f394e7776e72adac036258b5f7f9c57c47aff2fdd933a70fbee59525",
   "practice/sql/medium/medium-active-005/solution.sql": "b214d2d9d5041dabb94de7873c943a5f1ad3a7d0492564512f4349cbd6cb35a4",
   "practice/sql/hard/medium-repeat-004/solution.sql": "6d4a1579bc5a86463cd12a42513b0c95d0d702a29ed1c056d82d1e939a354175",
-  "practice/sql/hard/medium-repeat-005/solution.sql": "60c33ae0de5681a9ffbacd517fd5b2845c45c662ea0755899fea9f9d39202646"
+  "practice/sql/hard/medium-repeat-005/solution.sql": "60c33ae0de5681a9ffbacd517fd5b2845c45c662ea0755899fea9f9d39202646",
+  "practice/sql/medium/medium-churn-006/solution.sql": "3694d8bdf24ec6cfd29d0aab837d412c923f523dd03f41a673320468a1dcb5e2",
+  "practice/sql/hard/medium-cohort-008/solution.sql": "b842381138d24f5a82c6cc7d82d58490efb9efda7a314db89690f71bf53f538f",
+  "practice/sql/medium/medium-repeat-006/solution.sql": "1d2dfef928c424530ab91bf08cfb4410f6bc9b7995c809cf5f2d4581d2b70a57",
+  "practice/sql/medium/medium-active-006/solution.sql": "01a6d37c396b93beeb64c265617c2877dfd3bdb0fdc99b9475c76f8f48e800f7",
+  "practice/sql/medium/medium-churn-007/solution.sql": "6ed69cb4d61be868dc72d225476ffef2caeb4e750a90c8de9ec0763eb0afc1b3",
+  "practice/sql/medium/medium-winagg-006/solution.sql": "a979c66145e0bc5fc7e47c5b07d2683c26cd9ef57d3458f0effb53d9bbd9e90d",
+  "practice/sql/hard/hard-churn-008/solution.sql": "0f7711031dc34bee3282b40ffc7aa18cbffe56a132dfbb256ad38936c24de832",
+  "practice/sql/hard/hard-rfm-007/solution.sql": "eb6ac2cf012b4d4bdca11a1b3b479cf2fe54b016442d740dc58673516292e3b8",
+  "practice/sql/hard/hard-ltv-003/solution.sql": "0cbbc268a6ed4293e6f337dce3b3f047b3202727be31e2b2e0002574500800d8",
+  "practice/sql/hard/hard-rfm-009/solution.sql": "e4804047e1b0b80d8b3e23eb442250242c41c6a27af4dcaee384f1bb50749e3d",
+  "practice/sql/hard/hard-gap-004/solution.sql": "a1a9d3a56e43730fa0ffb3a362de6f7093d4d632ef77559497ac26e6214b6c09",
+  "practice/sql/hard/hard-ltv-004/solution.sql": "3648f3e1da94dbf93834aedecd25270d7f7c4512a5fdbbf7c1f1423125e3dd6b",
+  "practice/sql/hard/hard-retention-007/solution.sql": "a9360bd25d32839e15e6017c2860a9557f3deb0fe4475cea834c63b2f180546e",
+  "practice/sql/hard/hard-churn-006/solution.sql": "54ca38ccc6641bb442904dd4231265160f1af7f68569152a69053ebc8b37e398"
 }
