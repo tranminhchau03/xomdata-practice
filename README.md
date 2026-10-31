@@ -4,26 +4,26 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**246** problems solved on [Xom Data](https://xomdata.com/practice).
+**258** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 59 | 96 | 60 | 31 | 246 |
+| SQL | 59 | 104 | 64 | 31 | 258 |
 
 **Recently solved**
 
-- [hard-churn-006](https://xomdata.com/practice/hard-churn-006) · Hard · 2026-10-26
-- [hard-retention-007](https://xomdata.com/practice/hard-retention-007) · Hard · 2026-10-26
-- [hard-ltv-004](https://xomdata.com/practice/hard-ltv-004) · Hard · 2026-10-26
-- [hard-gap-004](https://xomdata.com/practice/hard-gap-004) · Hard · 2026-10-25
-- [hard-rfm-009](https://xomdata.com/practice/hard-rfm-009) · Hard · 2026-10-25
-- [hard-ltv-003](https://xomdata.com/practice/hard-ltv-003) · Hard · 2026-10-25
-- [hard-rfm-007](https://xomdata.com/practice/hard-rfm-007) · Hard · 2026-10-25
-- [hard-churn-008](https://xomdata.com/practice/hard-churn-008) · Hard · 2026-10-24
-- [medium-winagg-006](https://xomdata.com/practice/medium-winagg-006) · Medium · 2026-10-23
-- [medium-churn-007](https://xomdata.com/practice/medium-churn-007) · Medium · 2026-10-22
+- [medium-lag-004](https://xomdata.com/practice/medium-lag-004) · Medium · 2026-10-31
+- [medium-winagg-008](https://xomdata.com/practice/medium-winagg-008) · Medium · 2026-10-31
+- [medium-ntile-002](https://xomdata.com/practice/medium-ntile-002) · Medium · 2026-10-31
+- [medium-lead-001](https://xomdata.com/practice/medium-lead-001) · Medium · 2026-10-31
+- [medium-winagg-005](https://xomdata.com/practice/medium-winagg-005) · Medium · 2026-10-30
+- [medium-winagg-004](https://xomdata.com/practice/medium-winagg-004) · Medium · 2026-10-30
+- [medium-winagg-010](https://xomdata.com/practice/medium-winagg-010) · Medium · 2026-10-29
+- [medium-firstval-002](https://xomdata.com/practice/medium-firstval-002) · Medium · 2026-10-28
+- [hard-rfm-011](https://xomdata.com/practice/hard-rfm-011) · Hard · 2026-10-27
+- [hard-ltv-005](https://xomdata.com/practice/hard-ltv-005) · Hard · 2026-10-27
 
-_Synced 252 solutions · last update 2026-10-26_
+_Synced 264 solutions · last update 2026-10-31_
 
 <!-- xomdata:stats:end -->
 

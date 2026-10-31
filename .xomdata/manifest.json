@@ -250,5 +250,17 @@
   "practice/sql/hard/hard-gap-004/solution.sql": "a1a9d3a56e43730fa0ffb3a362de6f7093d4d632ef77559497ac26e6214b6c09",
   "practice/sql/hard/hard-ltv-004/solution.sql": "3648f3e1da94dbf93834aedecd25270d7f7c4512a5fdbbf7c1f1423125e3dd6b",
   "practice/sql/hard/hard-retention-007/solution.sql": "a9360bd25d32839e15e6017c2860a9557f3deb0fe4475cea834c63b2f180546e",
-  "practice/sql/hard/hard-churn-006/solution.sql": "54ca38ccc6641bb442904dd4231265160f1af7f68569152a69053ebc8b37e398"
+  "practice/sql/hard/hard-churn-006/solution.sql": "54ca38ccc6641bb442904dd4231265160f1af7f68569152a69053ebc8b37e398",
+  "practice/sql/hard/hard-winback-004/solution.sql": "e8f819c75f4fd2fd96be6d655db166d94e8b4033b12939f20ed4af28dd5229b7",
+  "practice/sql/hard/hard-rfm-008/solution.sql": "21a0016471453fb4e7b2a432f4920d13a5e5a33a4829492f288467f46b35167d",
+  "practice/sql/hard/hard-ltv-005/solution.sql": "29d87eedebc45b11b07fe04d0bf08ce29931967b3dcc87094ebc5bd403b66c11",
+  "practice/sql/hard/hard-rfm-011/solution.sql": "75c7f9c75dbbb3d5e391fc5b7660865ae5f319dca64daeac7d2883b76e371299",
+  "practice/sql/medium/medium-firstval-002/solution.sql": "a67ae1c8659c4c625d22265b36350f5e6303e1c4829d877879c5fd137c822136",
+  "practice/sql/medium/medium-winagg-010/solution.sql": "eb79be6914c02c1630d5c4e9003ab1ad2e57d7334a5ae4b2d59384a0129223d5",
+  "practice/sql/medium/medium-winagg-004/solution.sql": "ea13f0d85455cadf42f195eb712321028e3cd0a653157699548615f88a770643",
+  "practice/sql/medium/medium-winagg-005/solution.sql": "32decd8adb59d516273cc78cb589184ca1d59127d5433aaa69ffbe217563ffc0",
+  "practice/sql/medium/medium-lead-001/solution.sql": "132304631bde0d93effeed37b690a5985a5d6702b567f7484ae4b9ea2b62d245",
+  "practice/sql/medium/medium-ntile-002/solution.sql": "137d10094fae24b86eaadca9b2e10af6c977050aad22765031bfe1b45f9c9293",
+  "practice/sql/medium/medium-winagg-008/solution.sql": "3d5402bac151c76f7ec03d697016d9eb3e04d7f728102bd05957f14709d60f80",
+  "practice/sql/medium/medium-lag-004/solution.sql": "c24197b0834c169acf64b7fbd3a87c77f45c3e4e50515b38f165555d50472d7f"
 }
